@@ -131,7 +131,7 @@
                   {
                       "path":  "Mural.exp",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exp",
-                      "sha256":  "0913e3f1409034ec2bec37d16090c3d9baa6a25a9df43fc5bfab74583fd7269a",
+                      "sha256":  "96935874303635a126f93d87dd456aef003d0d45cf49684bba5e509f1c36a9b8",
                       "size":  794
                   },
                   {
@@ -143,8 +143,8 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "c37d5c98a84618fefa8984fb0625e953feffa7bac250f35fd2c465ba98009276",
-                      "size":  6132224
+                      "sha256":  "a0702323424c40b5f93668f10ff7ecd83db2d943af1c4b42752415806b76a597",
+                      "size":  6352896
                   },
                   {
                       "path":  "MuralLauncher.FREE.exe",
