@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "notes":  "free first release",
+    "version":  "1.0.1",
+    "notes":  "",
     "files":  [
                   {
                       "path":  "brotlicommon.dll",
@@ -149,8 +149,8 @@
                   {
                       "path":  "MuralLauncher.FREE.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/MuralLauncher.FREE.exe",
-                      "sha256":  "c83ae797590f464b0094e82a0cf91f2d8ca30bb561ed6b912a8f2065ab8e35ac",
-                      "size":  323072
+                      "sha256":  "ba09b67556dbad0bba680faf19346f0905bc41288f7dcd0b601a100f0f7c9507",
+                      "size":  456704
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
