@@ -1,0 +1,720 @@
+{
+    "version":  "1.0.0",
+    "notes":  "free first release",
+    "files":  [
+                  {
+                      "path":  "brotlicommon.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/brotlicommon.dll",
+                      "sha256":  "8fc9175868d6c9c4028243de02ae1664b8ecba5c8f6cbc938aa60c50409a4f36",
+                      "size":  208384
+                  },
+                  {
+                      "path":  "brotlienc.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/brotlienc.dll",
+                      "sha256":  "860f1e79ce98761fce6332de367b7fc1ba062bf9cdb1a77cd13e4c48c5b55228",
+                      "size":  947200
+                  },
+                  {
+                      "path":  "bz2d.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/bz2d.dll",
+                      "sha256":  "19a23157fe7e82ca3286df4b2db2b865c64658a162b1388a40ec2121c737c747",
+                      "size":  190464
+                  },
+                  {
+                      "path":  "freetype.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/freetype.dll",
+                      "sha256":  "740d3d08054e17e3d39108c46c28fda224860929122858225e9535b948271891",
+                      "size":  1539072
+                  },
+                  {
+                      "path":  "freetyped.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/freetyped.dll",
+                      "sha256":  "740d3d08054e17e3d39108c46c28fda224860929122858225e9535b948271891",
+                      "size":  1539072
+                  },
+                  {
+                      "path":  "libpng16d.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/libpng16d.dll",
+                      "sha256":  "dc26db6b0de3ad1c3dd2928b2e5223965efda2c79d1ce17f0f99c632a7027c72",
+                      "size":  425984
+                  },
+                  {
+                      "path":  "xxhash.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/xxhash.dll",
+                      "sha256":  "73c84884a2ccde1d10bec0820a6661920e70e4b53fa99ad510acf5ed1b36af97",
+                      "size":  47616
+                  },
+                  {
+                      "path":  "zlibd1.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/zlibd1.dll",
+                      "sha256":  "4398084469a68d63a5844f6da1c51f87286e49adfa017aa3f7705d7af73d08f7",
+                      "size":  210432
+                  },
+                  {
+                      "path":  "zstd.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/zstd.dll",
+                      "sha256":  "64dd623f02c0faea1638a4c4c92a49855a08e7cca174540f7cb33585a89f6cc8",
+                      "size":  1768960
+                  },
+                  {
+                      "path":  "mural_bg.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/mural_bg.png",
+                      "sha256":  "3205c5f91c65eb4c51ed8fa8d779af3e7b9ed318810cdedae41361abe8fd4f5d",
+                      "size":  556234
+                  },
+                  {
+                      "path":  "Verify user.exe",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Verify user.exe",
+                      "sha256":  "547057326266f0e1c7d50d102dbd22ff283d740c055bd61e94f10e2c606f89af",
+                      "size":  54967280
+                  },
+                  {
+                      "path":  "config.yml",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/config.yml",
+                      "sha256":  "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+                      "size":  3
+                  },
+                  {
+                      "path":  "WinRing0x64.sys",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/WinRing0x64.sys",
+                      "sha256":  "11bd2c9f9e2397c9a16e0990e4ed2cf0679498fe0fd418a3dfdac60b5c160ee5",
+                      "size":  14544
+                  },
+                  {
+                      "path":  "xmrig-cuda.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/xmrig-cuda.dll",
+                      "sha256":  "af747282bf8a68dbd5d4b5db4fafbba61d0a418e27d62090844f36d039bef1f0",
+                      "size":  62084096
+                  },
+                  {
+                      "path":  "nvrtc-builtins64_129.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/nvrtc-builtins64_129.dll",
+                      "sha256":  "60c0705ef1bcef8de12f442b424e2edc649956611b8d04990ef17abb1df748a2",
+                      "size":  7217664
+                  },
+                  {
+                      "path":  "nvrtc64_120_0.dll",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/nvrtc64_120_0.dll",
+                      "sha256":  "69a3b8e00fdf6c64805bd369b037db91f1ac1fb25b3411676b434736df945249",
+                      "size":  89833984
+                  },
+                  {
+                      "path":  "Pretendard-Regular.ttf",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Pretendard-Regular.ttf",
+                      "sha256":  "c8f31adecd93aca86f4b95a89ac14471bcb64a8b06f6da26444d70f858a546eb",
+                      "size":  3122052
+                  },
+                  {
+                      "path":  "Pretendard-SemiBold.ttf",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Pretendard-SemiBold.ttf",
+                      "sha256":  "45f6fd203ef7511cdca6016a5805bb6ce2ea57a74b8080ab27855a1bdfc061c4",
+                      "size":  3122920
+                  },
+                  {
+                      "path":  "HG꼬딕씨 g.ttf",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/HG꼬딕씨 g.ttf",
+                      "sha256":  "ab4f66caa83dbe68ffe81ec9f68c2d37fc3f3cb5f9d92d1f6ab0ec1069848b88",
+                      "size":  406252
+                  },
+                  {
+                      "path":  "moim.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/moim.png",
+                      "sha256":  "0e1e9f009194e4149479717c60ec5fec7f16656d3de7cf451d7cdfeb276232d5",
+                      "size":  233302
+                  },
+                  {
+                      "path":  "logo.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/logo.png",
+                      "sha256":  "bb0e39e8766970ba2e44f94579120d5fefcf866351b9885552a174bd1b0c5c81",
+                      "size":  6903
+                  },
+                  {
+                      "path":  "pebble.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/pebble.png",
+                      "sha256":  "543dac6eeb23ba3e815dab031d6d570a05ccaf7c2b64df648abeda702e16d061",
+                      "size":  48519
+                  },
+                  {
+                      "path":  "Mural.exp",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exp",
+                      "sha256":  "0913e3f1409034ec2bec37d16090c3d9baa6a25a9df43fc5bfab74583fd7269a",
+                      "size":  794
+                  },
+                  {
+                      "path":  "Mural.lib",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.lib",
+                      "sha256":  "8a33dc684025f030a200bfe85a10b5f0b3ee8d826fc585caa8b0e9015319ff09",
+                      "size":  1712
+                  },
+                  {
+                      "path":  "Mural.exe",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
+                      "sha256":  "c37d5c98a84618fefa8984fb0625e953feffa7bac250f35fd2c465ba98009276",
+                      "size":  6132224
+                  },
+                  {
+                      "path":  "Twisted icons/Astro.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Astro.png",
+                      "sha256":  "65750ccd10555ce20f6671dbbc394355694b628dd742197700f4e942fe060d28",
+                      "size":  285727
+                  },
+                  {
+                      "path":  "Twisted icons/Blott.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Blott.png",
+                      "sha256":  "62134cf5044fdd22b129ea361d12f9f757a91aeb3f0df416f26836daaf898f6f",
+                      "size":  128411
+                  },
+                  {
+                      "path":  "Twisted icons/Boxten.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Boxten.png",
+                      "sha256":  "16f7ce69a0888bc1c3cc458c8ce3cb7fa2e38582f5f10e9f151e28c4042b4900",
+                      "size":  245736
+                  },
+                  {
+                      "path":  "Twisted icons/Brightney.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Brightney.png",
+                      "sha256":  "811d8fdc905ac3d48b24b6a6af428135cffad6965d2b5fa2e45756d1bdf2c0c7",
+                      "size":  158621
+                  },
+                  {
+                      "path":  "Twisted icons/BrushaMonster.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/BrushaMonster.png",
+                      "sha256":  "efeb08eac365838e826701445aa829bbac317e13a860351f145b043e4ca8d6af",
+                      "size":  440163
+                  },
+                  {
+                      "path":  "Twisted icons/Connie.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Connie.png",
+                      "sha256":  "3c55e195935a0b0fb99336bc7b652c02be1fb890fa397f9a2d80c45c025321d8",
+                      "size":  189674
+                  },
+                  {
+                      "path":  "Twisted icons/Cosmo.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Cosmo.png",
+                      "sha256":  "87666c765c15b83c26cb38ba917783329cfe2f1dec37d89d8ee7e114f2093ced",
+                      "size":  187366
+                  },
+                  {
+                      "path":  "Twisted icons/Dandy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Dandy.png",
+                      "sha256":  "2f1e93b33621f30592153604e9fc085588deee8f2f57f8223aa19e58e7ebfac7",
+                      "size":  398590
+                  },
+                  {
+                      "path":  "Twisted icons/Dyle.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Dyle.png",
+                      "sha256":  "75b7caa152e425b6b3840048308c4f48e08536a84324c6bfdebb4dc32d3968a1",
+                      "size":  229234
+                  },
+                  {
+                      "path":  "Twisted icons/Finn.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Finn.png",
+                      "sha256":  "21e9c89609a9f53772fb5cf0c6dc70f6d5a726d1657e5102d9fe137567869189",
+                      "size":  61672
+                  },
+                  {
+                      "path":  "Twisted icons/Flutter.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Flutter.png",
+                      "sha256":  "7f3a51ab746a23811363a30809eaf9fbb6b71ca83704e471b710e41257785956",
+                      "size":  303708
+                  },
+                  {
+                      "path":  "Twisted icons/Gigi.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Gigi.png",
+                      "sha256":  "cc26121f0889f8b2c00face264e14aaa45b5b638703bd8a3dd8aaf9d840f332e",
+                      "size":  241666
+                  },
+                  {
+                      "path":  "Twisted icons/Glisten.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Glisten.png",
+                      "sha256":  "6f304c1d516ff4ecc6cb4f11ea7d19c75f3f31bfd6f0c42be3caf4ec9a2823ef",
+                      "size":  271419
+                  },
+                  {
+                      "path":  "Twisted icons/Goob.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Goob.png",
+                      "sha256":  "799be88dd0ad3d4c4e72da9ce51a9e3da5d59aeac7168ed8109202f46d7372d8",
+                      "size":  363824
+                  },
+                  {
+                      "path":  "Twisted icons/LooeyMonster.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/LooeyMonster.png",
+                      "sha256":  "4f428489f3fa802a0f74989653c22de6a7628d330bd312b018ad92760d5eb8ce",
+                      "size":  111579
+                  },
+                  {
+                      "path":  "Twisted icons/Pebble.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Pebble.png",
+                      "sha256":  "79d6f0794110f1ad0eb8e3d77ff4a04c4fbb1c3b7cc52ef9794c3ef98f80e837",
+                      "size":  278573
+                  },
+                  {
+                      "path":  "Twisted icons/Poppy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Poppy.png",
+                      "sha256":  "ae993c33b7bf7a451de93ef6d53c5c9497ef44c9023fc4caba958b41fdaf8a01",
+                      "size":  309711
+                  },
+                  {
+                      "path":  "Twisted icons/RazzleDazzle.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/RazzleDazzle.png",
+                      "sha256":  "0dc0885ea3d5546ed4552616cc9db8ecf0dee20aefc998531dd36dcc01c857a6",
+                      "size":  221103
+                  },
+                  {
+                      "path":  "Twisted icons/Rodger.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Rodger.png",
+                      "sha256":  "f27184758f27ace41fc5cd008146ec3c57a21715c2bbe3b1408c549c57cb3d16",
+                      "size":  345731
+                  },
+                  {
+                      "path":  "Twisted icons/Scraps.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Scraps.png",
+                      "sha256":  "48f0348a646a99efd997164f2aa383e3f533c3995fc638ee62cccb7b42a18b23",
+                      "size":  261479
+                  },
+                  {
+                      "path":  "Twisted icons/Shelly.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Shelly.png",
+                      "sha256":  "bbce182c8098f2b7b5f812e39135205c52a4a40fc3cd4f3847c6aec63cae0a4e",
+                      "size":  281615
+                  },
+                  {
+                      "path":  "Twisted icons/Shirimpo.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Shirimpo.png",
+                      "sha256":  "60cc007e9e8156891d4cb1dd790a4939a51529afc48b06ebb9b70bbd9a92fc08",
+                      "size":  213363
+                  },
+                  {
+                      "path":  "Twisted icons/Sprout.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Sprout.png",
+                      "sha256":  "ea89275f8a239d655fa0a8223c58e90e0454782d7c7e5d336e210a34a685842f",
+                      "size":  304908
+                  },
+                  {
+                      "path":  "Twisted icons/Squirm.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Squirm.png",
+                      "sha256":  "02806af5701966725e41f89c0906b12d7599453ed31ef1c0ac055827d1c53f90",
+                      "size":  178690
+                  },
+                  {
+                      "path":  "Twisted icons/Teagan.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Teagan.png",
+                      "sha256":  "28554aa1a591f2135d013ccad1b9cbed6a8b04cd3cc0188118264146262e2db2",
+                      "size":  242161
+                  },
+                  {
+                      "path":  "Twisted icons/Tisha.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Tisha.png",
+                      "sha256":  "af55c095b386e01e74146299b49b249920c17a056f78ea6ba53bd75c853c49f3",
+                      "size":  65942
+                  },
+                  {
+                      "path":  "Twisted icons/Toodles.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Toodles.png",
+                      "sha256":  "338bcedab302d34e7f26ab67480ce96c46ae56f4aa1f3240505c13e7d405ee6f",
+                      "size":  232521
+                  },
+                  {
+                      "path":  "Twisted icons/Vee.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Vee.png",
+                      "sha256":  "7ca90fd50853a065003d688f25f8080718e7f05fa48c525a87826d3a1436671a",
+                      "size":  279530
+                  },
+                  {
+                      "path":  "Twisted icons/Yatta.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/Yatta.png",
+                      "sha256":  "b667c7de64634527661c63423d2430329cbe3a6d2c14451dd4409d7319dfd255",
+                      "size":  641742
+                  },
+                  {
+                      "path":  "Twisted icons/waxwell.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted icons/waxwell.png",
+                      "sha256":  "6913ec615b8731fe8c4711c5dd894e012a5bd723cd203111cef132b60156f435",
+                      "size":  458131
+                  },
+                  {
+                      "path":  "Toon Icons/DuoShelly.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/DuoShelly.png",
+                      "sha256":  "9c4ce41d1d61b26c5ccea02beea0769d76f6e0a8c30a07d9ccaf3b5e82b110b9",
+                      "size":  265394
+                  },
+                  {
+                      "path":  "Toon Icons/Pebble.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Pebble.png",
+                      "sha256":  "bf4fd523b9887619e27183597dffadb47e1357a6aba0a406707e06199a9bebd9",
+                      "size":  165618
+                  },
+                  {
+                      "path":  "Toon Icons/Vee.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Vee.png",
+                      "sha256":  "5270c8ad2033affe6b8a486e54d64d6900f7bcfb55dabfa780fa5f645b3fae65",
+                      "size":  233774
+                  },
+                  {
+                      "path":  "Toon Icons/RazzleDazzle.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/RazzleDazzle.png",
+                      "sha256":  "0cc958f18297eb2638d0029076adae3763c75bfa8602218a4de0f7c582325b5e",
+                      "size":  291211
+                  },
+                  {
+                      "path":  "Toon Icons/Astro.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Astro.png",
+                      "sha256":  "f422c6dc6a7a70f75c0bff71cfa3e5f017048d321358ccd920f5f3ebe7a8146a",
+                      "size":  262438
+                  },
+                  {
+                      "path":  "Toon Icons/Bassie.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Bassie.png",
+                      "sha256":  "fa6368b98d724d5b8e35052c426968e92ac16c7b2e4939352f9b1716a07c6ab2",
+                      "size":  211614
+                  },
+                  {
+                      "path":  "Toon Icons/Blot.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Blot.png",
+                      "sha256":  "7b3593ea9262cef33269eecd5cd68975a9465d9476ba9f65c7928b6d8fb6ba1d",
+                      "size":  161028
+                  },
+                  {
+                      "path":  "Toon Icons/Bobette.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Bobette.png",
+                      "sha256":  "778e323a1ff67a1222d805df64da7044458f33c72b8f1664519cff1dffb9166e",
+                      "size":  174867
+                  },
+                  {
+                      "path":  "Toon Icons/Boxten.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Boxten.png",
+                      "sha256":  "87c4952b5d7468de975ab9c89fe1f71bc89979412d2a79efeb8073145641efd6",
+                      "size":  235531
+                  },
+                  {
+                      "path":  "Toon Icons/Brightney.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Brightney.png",
+                      "sha256":  "b5a27d8c3afdad8b8311bab790b87e7d57ead26bc1eae239ad375ab8adbd0e94",
+                      "size":  236803
+                  },
+                  {
+                      "path":  "Toon Icons/Brusha.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Brusha.png",
+                      "sha256":  "e07055358eef2354e0d790925e1f835edc34dcaba00ed4f5e881003831fb6214",
+                      "size":  485076
+                  },
+                  {
+                      "path":  "Toon Icons/Coal.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Coal.png",
+                      "sha256":  "18dcb6ef7b875bc1c92899ab29a03f3311342eb4c0944853cf4ba701a35e2d41",
+                      "size":  103401
+                  },
+                  {
+                      "path":  "Toon Icons/Cocoa.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Cocoa.png",
+                      "sha256":  "6ab314758c7f4368390eebfcd772df82e8e867fb4307e010ae5af5706fdf931c",
+                      "size":  202960
+                  },
+                  {
+                      "path":  "Toon Icons/Connie.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Connie.png",
+                      "sha256":  "cc21946d66e35d3b93d5a266a300d204befbf76368f8f3891e434aaec23fcf4e",
+                      "size":  239993
+                  },
+                  {
+                      "path":  "Toon Icons/Cosmo.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Cosmo.png",
+                      "sha256":  "c2d72466f220ffd48eb9198d5dec344a5f600175cf0c1ad054daec8dbc57a20a",
+                      "size":  226747
+                  },
+                  {
+                      "path":  "Toon Icons/Eclipse.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Eclipse.png",
+                      "sha256":  "c733f6a08c34b0f4c83f75091480a1b31a5116f2b07cdd5db7acd9881070c4d6",
+                      "size":  184378
+                  },
+                  {
+                      "path":  "Toon Icons/Eggson.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Eggson.png",
+                      "sha256":  "98818907416d7e0cd9b892f59a42f2ff714ace17dc067715e73c36ac18236d7e",
+                      "size":  158114
+                  },
+                  {
+                      "path":  "Toon Icons/Finn.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Finn.png",
+                      "sha256":  "037674008110307b26bbb5d1ef9ca7587d1da5d47a44ff8458af7765fe5f7a24",
+                      "size":  78412
+                  },
+                  {
+                      "path":  "Toon Icons/Flutter.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Flutter.png",
+                      "sha256":  "1e58bf540c62fb8ebb0fed69607ac8c04b226eea2bc247db4f9d002cd9f7aee6",
+                      "size":  279589
+                  },
+                  {
+                      "path":  "Toon Icons/Flyte.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Flyte.png",
+                      "sha256":  "a72a2d7d9d46356b21d3c01953519af6714f8e57b36222ede3e855f51a045c55",
+                      "size":  173213
+                  },
+                  {
+                      "path":  "Toon Icons/Gigi.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Gigi.png",
+                      "sha256":  "ee46c753a6fe3d67e00b9f58ebed733652583c811d2dd110143528758370f848",
+                      "size":  316830
+                  },
+                  {
+                      "path":  "Toon Icons/Ginger.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Ginger.png",
+                      "sha256":  "ccbe74ace80374100cdf9fd9cb7d19076fe70b28075142570415fccede7db051",
+                      "size":  398808
+                  },
+                  {
+                      "path":  "Toon Icons/Glisten.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Glisten.png",
+                      "sha256":  "a47954c18e505b90daa7c16d4535be0daf540c2fd3295e6f81fce3e9d08a5a35",
+                      "size":  279626
+                  },
+                  {
+                      "path":  "Toon Icons/Goob.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Goob.png",
+                      "sha256":  "d0ff07e8eff7d99539029715ef70baf795afc8b5af5afa3a8da165ae85613dfe",
+                      "size":  358125
+                  },
+                  {
+                      "path":  "Toon Icons/Gourdy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Gourdy.png",
+                      "sha256":  "cd267b4772a41f3d6a9a3b5a5c1d2bc3cd1e44ac9ea9ada3b8537862f54d0772",
+                      "size":  177452
+                  },
+                  {
+                      "path":  "Toon Icons/Looey.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Looey.png",
+                      "sha256":  "1b8b257f3e7598ba6c20134030ba3c0b0d97b8bf51cbf8da58a8f5da09dd8909",
+                      "size":  170269
+                  },
+                  {
+                      "path":  "Toon Icons/Poppy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Poppy.png",
+                      "sha256":  "74963587cf304a05688c2dc780ed64d6eb79b1788b7e99b0d1cd84544dbcf692",
+                      "size":  300128
+                  },
+                  {
+                      "path":  "Toon Icons/Ribecca.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Ribecca.png",
+                      "sha256":  "91c204ceb539eb384903a073d086bbbca60287252b7a270cd2c1cfd37a40883b",
+                      "size":  177383
+                  },
+                  {
+                      "path":  "Toon Icons/Rodger.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Rodger.png",
+                      "sha256":  "7ae747489084cc54f8769f22070db0014bda84819280d5d5813530df5ce47b1c",
+                      "size":  286008
+                  },
+                  {
+                      "path":  "Toon Icons/Rudie.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Rudie.png",
+                      "sha256":  "fa40f107a03004338f75068bda8c042df4acec77a26ee5fe4bee6acab2aee258",
+                      "size":  135317
+                  },
+                  {
+                      "path":  "Toon Icons/Scraps.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Scraps.png",
+                      "sha256":  "971da784a885de92211e918fefa0614ec77dd45218a3b94a3461d7c8470165c9",
+                      "size":  244385
+                  },
+                  {
+                      "path":  "Toon Icons/Shelly.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Shelly.png",
+                      "sha256":  "6465825e8b361438923d30d108129d07604073796525c55be991617887580571",
+                      "size":  278108
+                  },
+                  {
+                      "path":  "Toon Icons/Shrimpo.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Shrimpo.png",
+                      "sha256":  "ead8548e5c10d57aa7230680d07f2c17bb263e2b8c21e98fd49a2d0dacf01f53",
+                      "size":  255588
+                  },
+                  {
+                      "path":  "Toon Icons/Soulvester.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Soulvester.png",
+                      "sha256":  "43ef98c75a6f9df7bfde79844b14fbc5e723647161fcf32cd758555854912b2e",
+                      "size":  137398
+                  },
+                  {
+                      "path":  "Toon Icons/Sprout.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Sprout.png",
+                      "sha256":  "838a5c6676a489966024d53d7925bca7fdbaa8e92469105adfae0ff17755576b",
+                      "size":  199212
+                  },
+                  {
+                      "path":  "Toon Icons/Squirm.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Squirm.png",
+                      "sha256":  "90934b206600759362f1ec013e259b558083cdb24d1dc25595c3f8ead1fd7d82",
+                      "size":  168423
+                  },
+                  {
+                      "path":  "Toon Icons/Teagan.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Teagan.png",
+                      "sha256":  "a4cd76de8c6a8b007ef8c4a2b5615ed4e49c19660ac6a364dc2d26cde18e79f0",
+                      "size":  321742
+                  },
+                  {
+                      "path":  "Toon Icons/Tisha.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Tisha.png",
+                      "sha256":  "b119edec262ec4fbd20e470e8298a3139904f5edf414dc0fa52e25b15028e75e",
+                      "size":  72311
+                  },
+                  {
+                      "path":  "Toon Icons/Toodles.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Toodles.png",
+                      "sha256":  "7194cd8a4444221527c896257cac4f7fdd684c15780239b4cffa9533761ee8ee",
+                      "size":  189419
+                  },
+                  {
+                      "path":  "Toon Icons/Waxwell.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Waxwell.png",
+                      "sha256":  "ef328cb2a5ea797afaf691f0cce485ca59592a8feedfdfa1f52d2f1a60f5bb45",
+                      "size":  553508
+                  },
+                  {
+                      "path":  "Toon Icons/Yatta.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon Icons/Yatta.png",
+                      "sha256":  "41785e822753d982f6fa5c54bc4e34a0663027e110deba0a5390e63faf54aba6",
+                      "size":  235253
+                  },
+                  {
+                      "path":  "Item Icons/Ornaments.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Ornaments.png",
+                      "sha256":  "abf123599893b043bca6c3a55b3c2081af490d1ecff6ebf3d8e17e9df31c4264",
+                      "size":  11108
+                  },
+                  {
+                      "path":  "Item Icons/Baskets.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Baskets.png",
+                      "sha256":  "be47eec228954320df0a322eedbad533041a8afc3ab151c7ae71bdfcab359db1",
+                      "size":  16187
+                  },
+                  {
+                      "path":  "Item Icons/Pumpkins.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Pumpkins.png",
+                      "sha256":  "4587031d2cbfb6920255631e69d1b9c0c818e442ce584ab91ed71e1fee945233",
+                      "size":  16135
+                  },
+                  {
+                      "path":  "Item Icons/Smoke Bomb.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Smoke Bomb.png",
+                      "sha256":  "aba91535ba183742160e0bb8e0f99977273bd7bda5e9f4b9c2f19cd1dd289bce",
+                      "size":  13343
+                  },
+                  {
+                      "path":  "Item Icons/Eject Button.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Eject Button.png",
+                      "sha256":  "1ee6dde0828717c1f0d731c9fa92e498ad3373f7f1ef2d0d4d4f5a72c715496a",
+                      "size":  11623
+                  },
+                  {
+                      "path":  "Item Icons/ChocolateBox.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/ChocolateBox.png",
+                      "sha256":  "cf3166ce2eb215fa095479d2eb7a03e30504d9a1835617b0b7dbe685c0659c8e",
+                      "size":  13236
+                  },
+                  {
+                      "path":  "Item Icons/Health_Kit.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Health_Kit.png",
+                      "sha256":  "78030e559d6aab65698b7a8299dd982527136da602b4f2667265ac89ea4f29b9",
+                      "size":  16252
+                  },
+                  {
+                      "path":  "Item Icons/BonBon.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/BonBon.png",
+                      "sha256":  "7022373b5e91d5f6cc41302576e9ca71e394246f135288552ac25ce9e9efd66d",
+                      "size":  12953
+                  },
+                  {
+                      "path":  "Item Icons/Jawbreaker.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Jawbreaker.png",
+                      "sha256":  "ee46cedabd2846306d09ea1d035f8c2751bb4915a374cbbc1fd8b73cc62afb4b",
+                      "size":  13482
+                  },
+                  {
+                      "path":  "Item Icons/Air Horn.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Air Horn.png",
+                      "sha256":  "83d6500187fa43e7480bcd11047435d4c53285edbb9202ed6a75a77c0578df0b",
+                      "size":  13390
+                  },
+                  {
+                      "path":  "Item Icons/Bandage.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Bandage.png",
+                      "sha256":  "0fc489c4e0ac4681c96c8dca938fd36579840c20e18bab6610f87dc736e73310",
+                      "size":  10983
+                  },
+                  {
+                      "path":  "Item Icons/Jumper Cable.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Jumper Cable.png",
+                      "sha256":  "36ae9ccf0d487c9a637463c16680a4088e628730d402f6a385f30849768736c9",
+                      "size":  14465
+                  },
+                  {
+                      "path":  "Item Icons/Skill Check Candy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Skill Check Candy.png",
+                      "sha256":  "234d1ac53ab26ca61b3b3aec5304a35ba3b42ea500e60ac377dd77f775ad4b91",
+                      "size":  9648
+                  },
+                  {
+                      "path":  "Item Icons/Extraction Speed Candy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Extraction Speed Candy.png",
+                      "sha256":  "16573d9a09487be4ec5ebcf6aae9f8f62284467137de1a8741b2816fb69fad96",
+                      "size":  9774
+                  },
+                  {
+                      "path":  "Item Icons/Protein Bar.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Protein Bar.png",
+                      "sha256":  "f7aed8ed382809d54f3856ef381ae9e3a555dcce101d1b9616c2df5794c75ff5",
+                      "size":  11215
+                  },
+                  {
+                      "path":  "Item Icons/Speed Candy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Speed Candy.png",
+                      "sha256":  "ff75f9c9b86abea2d0a555d8df542d2fa5a1bc38ad7c804e4c0e787c1a452cf7",
+                      "size":  10627
+                  },
+                  {
+                      "path":  "Item Icons/Pop.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Pop.png",
+                      "sha256":  "2d6c47885166cfe18a44ed093fd806e0ef56463d91fff898ec675bcbc14bef71",
+                      "size":  14618
+                  },
+                  {
+                      "path":  "Item Icons/Stamina Candy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Stamina Candy.png",
+                      "sha256":  "d461857057c019189ca822ca2c8e86c02c225aa84ccdd8330eeae3847119fb2f",
+                      "size":  8556
+                  },
+                  {
+                      "path":  "Item Icons/Chocolate.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Chocolate.png",
+                      "sha256":  "43276aee74ff537c145b0f174648cc8f84431630663afbd78a7137a18f8e1033",
+                      "size":  10454
+                  },
+                  {
+                      "path":  "Item Icons/Tape.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Tape.png",
+                      "sha256":  "9a811cde0c26ad12b169d46cd33c80bee4d5f378059d03def5cec9a0c2f5bb43",
+                      "size":  9338
+                  },
+                  {
+                      "path":  "Item Icons/Gumballs.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Gumballs.png",
+                      "sha256":  "31fb9557b49f79288e444491f140875e179b6582e9029cbc408ac4b01a703097",
+                      "size":  10703
+                  },
+                  {
+                      "path":  "Item Icons/PopBottle.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/PopBottle.png",
+                      "sha256":  "452cb9be053cc888c0bed1ec35547708c9c0f0c63ad48f78b5b9a88c63b4a892",
+                      "size":  9928
+                  },
+                  {
+                      "path":  "Item Icons/Stealth Candy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item Icons/Stealth Candy.png",
+                      "sha256":  "39488d1b1e057a99c6f66fe4aa7f71a082c9ac8496fc25e2f04868e50569661b",
+                      "size":  8824
+                  }
+              ]
+}
