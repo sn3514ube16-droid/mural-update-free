@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.63",
+    "version":  "1.0.4",
     "notes":  "",
     "files":  [
                   {
@@ -75,12 +75,6 @@
                       "size":  14544
                   },
                   {
-                      "path":  "xmrig-cuda.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/xmrig-cuda.dll",
-                      "sha256":  "af747282bf8a68dbd5d4b5db4fafbba61d0a418e27d62090844f36d039bef1f0",
-                      "size":  62084096
-                  },
-                  {
                       "path":  "nvrtc-builtins64_129.dll",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/nvrtc-builtins64_129.dll",
                       "sha256":  "60c0705ef1bcef8de12f442b424e2edc649956611b8d04990ef17abb1df748a2",
@@ -131,13 +125,13 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "8282be84a9414dbf2bd44de1ae2ee49688c9626a614be671f10c21884eef9d39",
+                      "sha256":  "6f7f7e7781fe2bdf9fca62dd3e03859dfbe518f4649e74fd61fd52163ebe8ea9",
                       "size":  6393344
                   },
                   {
                       "path":  "MuralLauncher.FREE.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/MuralLauncher.FREE.exe",
-                      "sha256":  "ba09b67556dbad0bba680faf19346f0905bc41288f7dcd0b601a100f0f7c9507",
+                      "sha256":  "3624a2a1ea32ae4952b3beca26ffffe76b436249ef2f4241ecbfb392ee3f2311",
                       "size":  456704
                   },
                   {
