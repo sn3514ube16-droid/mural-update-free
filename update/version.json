@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
-    "notes":  "",
+    "version":  "1.0.0",
+    "notes":  "free first release",
     "files":  [
                   {
                       "path":  "brotlicommon.dll",
@@ -129,21 +129,9 @@
                       "size":  48519
                   },
                   {
-                      "path":  "Mural.exp",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exp",
-                      "sha256":  "96935874303635a126f93d87dd456aef003d0d45cf49684bba5e509f1c36a9b8",
-                      "size":  794
-                  },
-                  {
-                      "path":  "Mural.lib",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.lib",
-                      "sha256":  "8a33dc684025f030a200bfe85a10b5f0b3ee8d826fc585caa8b0e9015319ff09",
-                      "size":  1712
-                  },
-                  {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "bbbe78effe21fe3b1fb6b4a858cb62dd6f30119a1ae708a406a1ed5f59509995",
+                      "sha256":  "10b5c1340e9fa10c19fbb6197809f3557e2a0015dbf2739d333e885e9db6bd6a",
                       "size":  6352896
                   },
                   {
