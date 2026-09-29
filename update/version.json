@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.45",
     "notes":  "",
     "files":  [
                   {
@@ -125,14 +125,14 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "6f7f7e7781fe2bdf9fca62dd3e03859dfbe518f4649e74fd61fd52163ebe8ea9",
+                      "sha256":  "1b77e4547a24c00445dfdc30d639d9a755b929f8d5105a1030febcce762547c0",
                       "size":  6393344
                   },
                   {
-                      "path":  "MuralLauncher.FREE.exe",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/MuralLauncher.FREE.exe",
-                      "sha256":  "3624a2a1ea32ae4952b3beca26ffffe76b436249ef2f4241ecbfb392ee3f2311",
-                      "size":  456704
+                      "path":  "MuralLauncher.FR.exe",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/MuralLauncher.FR.exe",
+                      "sha256":  "2e8801a299932f44ba91c54326df1b7f15e02a439e9b22458568ef77893db305",
+                      "size":  457728
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
