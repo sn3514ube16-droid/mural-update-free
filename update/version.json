@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.2",
+    "version":  "1.1.3",
     "notes":  "",
     "files":  [
                   {
@@ -131,8 +131,8 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "54553a7b1db696980e46d0223d88c23f332dac16bc1228d7b044683c37b67f94",
-                      "size":  6194688
+                      "sha256":  "54a7c1edd9af82d4f9a27391fb73921764f69369abdac9855fc92b4c8d638584",
+                      "size":  6196224
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
@@ -313,6 +313,30 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/waxwell.png",
                       "sha256":  "6913ec615b8731fe8c4711c5dd894e012a5bd723cd203111cef132b60156f435",
                       "size":  458131
+                  },
+                  {
+                      "path":  "Twisted icons/Soulvester.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Soulvester.png",
+                      "sha256":  "42a3556a0fd486b7c6fb9de6b3c76d500048fae6ef1cbb0297171e5c1bb72b3e",
+                      "size":  107580
+                  },
+                  {
+                      "path":  "Twisted icons/Ribecca.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Ribecca.png",
+                      "sha256":  "dce75edd4add37a81c390b4e42b0e983065b7bb7c200b787e8a4c904c1e0b2fa",
+                      "size":  202296
+                  },
+                  {
+                      "path":  "Twisted icons/Gourdy.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Gourdy.png",
+                      "sha256":  "21099cc7c9f04ff9bc7457128ec140b9e721121e045ecfb4badba73aa30428e9",
+                      "size":  192766
+                  },
+                  {
+                      "path":  "Twisted icons/Eclipse.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Eclipse.png",
+                      "sha256":  "e9f78ef7118fbb6e8e8dc1eb3e89c51d72148e8cc3973fdb982aa7bbf41a4110",
+                      "size":  180120
                   },
                   {
                       "path":  "Toon Icons/DuoShelly.png",
