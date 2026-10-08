@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.7",
+    "version":  "1.2.0",
     "notes":  "",
     "files":  [
                   {
@@ -131,8 +131,8 @@
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "e41b552f273306efe6ab1b395afaae6ea142ab0c0d0a275d294e16dd42e8e3a5",
-                      "size":  6200320
+                      "sha256":  "c542a6d343039f5cdef6a835910fcefbbf33b5e031cef5fad474362f7ee8131c",
+                      "size":  6232576
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
@@ -337,6 +337,12 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Eclipse.png",
                       "sha256":  "e9f78ef7118fbb6e8e8dc1eb3e89c51d72148e8cc3973fdb982aa7bbf41a4110",
                       "size":  180120
+                  },
+                  {
+                      "path":  "Twisted icons/Twisted_Astro_Full_Render.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Twisted%20icons/Twisted_Astro_Full_Render.png",
+                      "sha256":  "5c6d072142d266007ecffb5e7073e251821b91046cccfe4a4f3b9b85d5ef2332",
+                      "size":  228076
                   },
                   {
                       "path":  "Toon Icons/DuoShelly.png",
@@ -583,6 +589,12 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon%20Icons/Yatta.png",
                       "sha256":  "41785e822753d982f6fa5c54bc4e34a0663027e110deba0a5390e63faf54aba6",
                       "size":  235253
+                  },
+                  {
+                      "path":  "Toon Icons/Sprout_Full_Render.png",
+                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Toon%20Icons/Sprout_Full_Render.png",
+                      "sha256":  "cc2d0f7f0f662a1c591342707b1fd1fcfd30b3c3b378952c11748956452a9ae3",
+                      "size":  713687
                   },
                   {
                       "path":  "Item Icons/Ornaments.png",
