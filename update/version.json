@@ -1,61 +1,7 @@
 {
-    "version":  "test",
+    "version":  "1.4.5",
     "notes":  "",
     "files":  [
-                  {
-                      "path":  "brotlicommon.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/brotlicommon.dll",
-                      "sha256":  "8fc9175868d6c9c4028243de02ae1664b8ecba5c8f6cbc938aa60c50409a4f36",
-                      "size":  208384
-                  },
-                  {
-                      "path":  "brotlienc.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/brotlienc.dll",
-                      "sha256":  "860f1e79ce98761fce6332de367b7fc1ba062bf9cdb1a77cd13e4c48c5b55228",
-                      "size":  947200
-                  },
-                  {
-                      "path":  "bz2d.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/bz2d.dll",
-                      "sha256":  "19a23157fe7e82ca3286df4b2db2b865c64658a162b1388a40ec2121c737c747",
-                      "size":  190464
-                  },
-                  {
-                      "path":  "freetype.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/freetype.dll",
-                      "sha256":  "740d3d08054e17e3d39108c46c28fda224860929122858225e9535b948271891",
-                      "size":  1539072
-                  },
-                  {
-                      "path":  "freetyped.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/freetyped.dll",
-                      "sha256":  "740d3d08054e17e3d39108c46c28fda224860929122858225e9535b948271891",
-                      "size":  1539072
-                  },
-                  {
-                      "path":  "libpng16d.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/libpng16d.dll",
-                      "sha256":  "dc26db6b0de3ad1c3dd2928b2e5223965efda2c79d1ce17f0f99c632a7027c72",
-                      "size":  425984
-                  },
-                  {
-                      "path":  "xxhash.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/xxhash.dll",
-                      "sha256":  "73c84884a2ccde1d10bec0820a6661920e70e4b53fa99ad510acf5ed1b36af97",
-                      "size":  47616
-                  },
-                  {
-                      "path":  "zlibd1.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/zlibd1.dll",
-                      "sha256":  "4398084469a68d63a5844f6da1c51f87286e49adfa017aa3f7705d7af73d08f7",
-                      "size":  210432
-                  },
-                  {
-                      "path":  "zstd.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/zstd.dll",
-                      "sha256":  "64dd623f02c0faea1638a4c4c92a49855a08e7cca174540f7cb33585a89f6cc8",
-                      "size":  1768960
-                  },
                   {
                       "path":  "mural_bg.png",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/mural_bg.png",
@@ -67,24 +13,6 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/config.yml",
                       "sha256":  "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
                       "size":  3
-                  },
-                  {
-                      "path":  "WinRing0x64.sys",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/WinRing0x64.sys",
-                      "sha256":  "11bd2c9f9e2397c9a16e0990e4ed2cf0679498fe0fd418a3dfdac60b5c160ee5",
-                      "size":  14544
-                  },
-                  {
-                      "path":  "nvrtc-builtins64_129.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/nvrtc-builtins64_129.dll",
-                      "sha256":  "60c0705ef1bcef8de12f442b424e2edc649956611b8d04990ef17abb1df748a2",
-                      "size":  7217664
-                  },
-                  {
-                      "path":  "nvrtc64_120_0.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/nvrtc64_120_0.dll",
-                      "sha256":  "69a3b8e00fdf6c64805bd369b037db91f1ac1fb25b3411676b434736df945249",
-                      "size":  89833984
                   },
                   {
                       "path":  "Pretendard-Regular.ttf",
@@ -125,26 +53,14 @@
                   {
                       "path":  "MuralLauncher.FR.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/MuralLauncher.FR.exe",
-                      "sha256":  "2e8801a299932f44ba91c54326df1b7f15e02a439e9b22458568ef77893db305",
-                      "size":  457728
+                      "sha256":  "324a70a4b76bcbd3676da219c46d94b0fe9326cff24f84017ebd52297c21cd5c",
+                      "size":  459776
                   },
                   {
                       "path":  "Mural.exe",
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Mural.exe",
-                      "sha256":  "2f812772c1a0fdc26371e82175e15af437656e8f931ae4410cf3c342452dcf40",
-                      "size":  54686720
-                  },
-                  {
-                      "path":  "ucrtbased.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/ucrtbased.dll",
-                      "sha256":  "5066317e01a20824840a5d6752dd43c1d8f9895e283ee1a52c04680566bb6ed0",
-                      "size":  2120024
-                  },
-                  {
-                      "path":  "vcruntime140d.dll",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/vcruntime140d.dll",
-                      "sha256":  "48115cb5e856efed95e29a5ad96e0562268c744c4afb917c13e5ffbdd70638da",
-                      "size":  184320
+                      "sha256":  "1ad8c4f34dd254080983bc24cd13e5dd0dd6a8fe80bcf3d531f17fb09803fadf",
+                      "size":  25310208
                   },
                   {
                       "path":  "Twisted icons/Astro.png",
@@ -745,90 +661,6 @@
                       "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/Item%20Icons/Stealth%20Candy.png",
                       "sha256":  "39488d1b1e057a99c6f66fe4aa7f71a082c9ac8496fc25e2f04868e50569661b",
                       "size":  8824
-                  },
-                  {
-                      "path":  "payload/bz2d.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/bz2d.dll.zst",
-                      "sha256":  "77f72e342e8882881f270b848224a7c3697d50b6ec49751b66ab9fa8a958a0dd",
-                      "size":  35734
-                  },
-                  {
-                      "path":  "payload/brotlicommon.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/brotlicommon.dll.zst",
-                      "sha256":  "94314c2bc86a58e3866a48c658b64900c2ff473d145017b04de9cac8cb531ad9",
-                      "size":  67929
-                  },
-                  {
-                      "path":  "payload/brotlienc.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/brotlienc.dll.zst",
-                      "sha256":  "8db1eb6b5642e1b04503bc5abb05bb80c3b39bae5f9fea73ae3bd43bd970f348",
-                      "size":  217959
-                  },
-                  {
-                      "path":  "payload/freetype.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/freetype.dll.zst",
-                      "sha256":  "78466408aba7ce4e6717ce6a3a4cc7c20b71af4cfc47f5e3cee6743c75888314",
-                      "size":  344310
-                  },
-                  {
-                      "path":  "payload/freetyped.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/freetyped.dll.zst",
-                      "sha256":  "78466408aba7ce4e6717ce6a3a4cc7c20b71af4cfc47f5e3cee6743c75888314",
-                      "size":  344310
-                  },
-                  {
-                      "path":  "payload/libpng16d.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/libpng16d.dll.zst",
-                      "sha256":  "b7a4458c5e8dbdcb5f37f9cc84faf4e844d1aade001362b81843120d4c35e501",
-                      "size":  99089
-                  },
-                  {
-                      "path":  "payload/nvrtc-builtins64_129.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/nvrtc-builtins64_129.dll.zst",
-                      "sha256":  "9e456ddaec9515c01a5d701f601073d1775684d4aae4feb8e6207156c29d6d1e",
-                      "size":  345810
-                  },
-                  {
-                      "path":  "payload/nvrtc64_120_0.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/nvrtc64_120_0.dll.zst",
-                      "sha256":  "96229de134fb68b93b0a3fa03baebadc82eb4a0bd26a1866dc345832c5c7590d",
-                      "size":  29051746
-                  },
-                  {
-                      "path":  "payload/ucrtbased.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/ucrtbased.dll.zst",
-                      "sha256":  "22f308fda7d5d254baadead083f40d6cbe60507f9dec13229b9ee5b2ef47239a",
-                      "size":  529069
-                  },
-                  {
-                      "path":  "payload/vcruntime140d.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/vcruntime140d.dll.zst",
-                      "sha256":  "20cf990a96abd890011e3f5f0d332fecb263f454caa37ae0636cb2fb2074e55a",
-                      "size":  58172
-                  },
-                  {
-                      "path":  "payload/WinRing0x64.sys.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/WinRing0x64.sys.zst",
-                      "sha256":  "177889ec563a5c63bc44e3735465d25414b0117221e899e23d0d4b799834bcb8",
-                      "size":  7863
-                  },
-                  {
-                      "path":  "payload/xxhash.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/xxhash.dll.zst",
-                      "sha256":  "9916ffccb3cf70237a8856a29aa9a4196bea0c8b825eb685f78cc5751a0247d1",
-                      "size":  18787
-                  },
-                  {
-                      "path":  "payload/zlibd1.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/zlibd1.dll.zst",
-                      "sha256":  "c670362e172ccb229b3dc5933b9fe41a72b3f6fc3939a7944e5215f2149b8dc3",
-                      "size":  52697
-                  },
-                  {
-                      "path":  "payload/zstd.dll.zst",
-                      "url":  "https://raw.githubusercontent.com/sn3514ube16-droid/mural-update-free/main/update/payload/zstd.dll.zst",
-                      "sha256":  "acb0f41b9f5912632fdabd23cf0bb729877ea8f7559620a17b65d4f55e89b5a4",
-                      "size":  262608
                   }
               ]
 }
